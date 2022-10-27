@@ -42,7 +42,7 @@ public class AtmExample {
 			}
 			
 		}
-		scanner.close();//
+		scanner.close();
 
 	}
 
