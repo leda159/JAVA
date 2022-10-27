@@ -10,7 +10,7 @@ public class OddEvenCheck {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("숫자를 입력하세요");
 		
-		//nextIng() : 정수형 자료를 입력 받음
+		//nextInt() : 정수형 자료를 입력 받음
 		//nextFloat() : 4바이트 실수형 자료
 		//ex)대한민국 만세
 		//next() : 문자열 자료 입력 (공백이 있기 전까지 문자열을 가져옴)

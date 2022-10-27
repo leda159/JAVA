@@ -26,7 +26,7 @@ public class StudentInfo {
 		//long(8바이트)
 		
 		//실수
-		//float(4바이트), double(8qkdlxm)
+		//float(4바이트), double(8바이트)
 		
 		//문자
 		//char(2바이트)
