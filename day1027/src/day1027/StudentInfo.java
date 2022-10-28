@@ -60,9 +60,7 @@ public class StudentInfo {
 	System.out.printf("%d + %d = %d", num1, num2, result);
 	System.out.println("");
 	System.out.printf("%,d + %,d = %,d", num1, num2, result);
-	
-	
-	
+
 	}
 }
 
