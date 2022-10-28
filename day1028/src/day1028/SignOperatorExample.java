@@ -17,6 +17,7 @@ public class SignOperatorExample {
 		//byte resylt3 = -b;
 		//byte 타입 값을 부호 연산하면 int 타입 값으로 바뀌므로 컴파일 에러 발생!
 		//자동 타입 변환
+		//
 		int result3 = -b;
 		System.out.println("result3:" + result3);
 	}
