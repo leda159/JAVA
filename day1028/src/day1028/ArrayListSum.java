@@ -70,8 +70,7 @@ public class ArrayListSum {
 //processor -> 하드웨어
 
 //new 연산자를 만들면 heap 영역에 인스턴스가 생성된다.
-
-
+//
 
 
 
