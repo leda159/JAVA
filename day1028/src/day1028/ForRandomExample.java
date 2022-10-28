@@ -41,3 +41,6 @@ public class ForRandomExample {
 		System.out.printf("\n난수합계:%,d",totalSum);
 	}
 }
+
+
+//
