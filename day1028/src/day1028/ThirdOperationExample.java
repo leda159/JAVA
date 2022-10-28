@@ -3,7 +3,19 @@ package day1028;
 import java.util.Scanner;
 
 public class ThirdOperationExample {
+	
+	/*
+	 * - Scanner 사용 - 반복문 사용 - 삼항연산자 - printf() 사용
+	 * 
+	 * 입장료) 1.초중고(3,000원) 2.성인(5,000원) 3.중장년(7,000원) 4.종료
+	 * 
+	 * 메뉴선택:X 인원수:XX
+	 * 
+	 * 출력 선택하신 초중고 인원수 2명에 대한 입장료는 6,000원 입니다.
+	 */
 
+	
+	
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
