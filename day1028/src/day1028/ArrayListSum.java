@@ -61,7 +61,7 @@ public class ArrayListSum {
 
 }
 
-
+//
 //process -> 운영체제 메모리를 할당 받아서 실행되는 '독립적인 프로그램'
 //ex) 카카오톡
 
@@ -71,8 +71,8 @@ public class ArrayListSum {
 
 //new 연산자를 만들면 heap 영역에 인스턴스가 생성된다.
 //
-
-
+//
+//
 
 
 
