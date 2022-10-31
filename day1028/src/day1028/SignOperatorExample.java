@@ -7,7 +7,7 @@ public class SignOperatorExample {
 		int result1 = +x; //-100
 		//int result2 = -x; //100
 		
-		//x의 절댓값을 구한다
+		//x의 절댓값을 구한다10
 		int result2 = Math.abs(x); 
 		
 		System.out.println("result1:"+result1);
