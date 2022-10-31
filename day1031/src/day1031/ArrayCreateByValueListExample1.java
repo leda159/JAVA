@@ -8,7 +8,7 @@ public class ArrayCreateByValueListExample1 {
 		int[] scores = new int[] {83, 90, 87};
 		//정수형 배열 scores 선언
 		//int[] scores = {83, 90, 87};
-		
+		//
 		System.out.println("scores[0] : " + scores[0]);
 		System.out.println("scores[1] : " + scores[1]);
 		System.out.println("scores[2] : " + scores[2]);
