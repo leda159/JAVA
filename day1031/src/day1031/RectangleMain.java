@@ -21,6 +21,7 @@ public class RectangleMain {
 		//width, height의 값은 입력했을때 저장된 값을 가져와서 사용
 		//참조변수 rectangle을 이용해서 Rectangel클래스의 getArea()메서드 호출
 		//getArea()메서드는 width * height을 리턴한다.
+		//
 		System.out.printf("가로길이가%,d이고 세로길이가 %,d인 직사각형 면적은%,d이다",
 				width,height,rectangle.getArea());
 		
