@@ -19,7 +19,7 @@ public abstract class Phone {
 	
 	//추상 메서드
 	//{}블록이 없는 메서드
-	//추상 메서드를 사용할려면 abstract을 클래스 앞에 넣어줘야 한다.
+	//추상 메서드를 사용할려면 abstract를 클래스 앞에 넣어줘야 한다.
 	public abstract int add(int num1, int num2); 
 }
 
