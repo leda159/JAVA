@@ -14,7 +14,7 @@ public class StringToLowerUpperCaseExample {
 		String lowerStr2 = str2.toLowerCase();
 		System.out.println(lowerStr1.equals(lowerStr2));
 		
-		//문자열 비교시 대소문자 구분 안함
+		//문자열 비교시 대소문자 구분 안함/
 		System.out.println(str1.equalsIgnoreCase(str2));
 		
 
